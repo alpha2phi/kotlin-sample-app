@@ -29,3 +29,6 @@ app/build/
 .idea/
 build/
 
+
+# Ignore Gradle build output directory
+build
